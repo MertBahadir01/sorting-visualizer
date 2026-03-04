@@ -1,0 +1,7 @@
+# Sorting Visualizer — Requirements
+# All core dependencies are Python stdlib (3.9+). No installs required to run.
+#
+# Optional: install pygame for lowest-latency audio.
+# Without it, the app falls back to ffplay (FFmpeg), afplay (macOS), or winsound (Windows).
+
+pygame>=2.0.0  # optional — recommended for best audio performance
